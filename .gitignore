@@ -1,0 +1,7 @@
+Debug/
+.vs/
+*.cad
+*.db
+*.sln
+*.vcxproj
+*.filters
